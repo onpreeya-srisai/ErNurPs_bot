@@ -25,8 +25,7 @@ def sendmessage(m,u):
 h = "165.232.164.140"
 db = "postgres"
 us = "postgres"
-pw = "06543218"
-#conn = psycopg2.connect("dbname=homeworks user=postgres password=06543218")
+pw = "your password"
 conn = psycopg2.connect(host = h,database  = db ,user =us ,password =pw ,port=5432)
 cur = conn.cursor()
 
