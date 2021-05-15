@@ -1,0 +1,1 @@
+wab:gunicorn ErNurPsbot:app
