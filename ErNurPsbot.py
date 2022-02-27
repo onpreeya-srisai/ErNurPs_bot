@@ -43,7 +43,7 @@ def generating_answer(question):
 
     intent = question["queryResult"]["intent"]["displayName"]
     #เก็บชื่อของ intent จาก dialogflow
-    h = "165.232.164.140"
+    h = "xxx.xxx.xxx.xxx"
     db = "postgres"
     us = "postgres"
     pw = "your password"
