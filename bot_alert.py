@@ -22,7 +22,7 @@ def sendmessage(m,u):
     r = requests.post(url, headers=headers , data = json.dumps(formData, indent=4))
     print(r.text)
 
-h = "165.232.164.140"
+h = "xxx.xxx.xxx.xxx"
 db = "postgres"
 us = "postgres"
 pw = "your password"
