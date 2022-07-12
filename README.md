@@ -11,7 +11,7 @@ This is an Exploratory Project in Computer Subjects. Create a Chatbot with Dialo
 ## Developer List
 6230300052 Kanyapak Pinjai email: kanyapak.pin@ku.th \
 6230300982 Sirapop Nuangpookka email: sirapop.nu@ku.th \
-6230301067 Onpreeya Srisai email: onpreeya.sr@ku.th \
+6230301067 Onpreeya Srisai email: onpreeya.sr@ku.th
 
 ## Thank you teacher advisor
 #####ajan Adisak supeesun
