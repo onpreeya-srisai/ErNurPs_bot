@@ -14,4 +14,4 @@ This is an Exploratory Project in Computer Subjects. Create a Chatbot with Dialo
 6230301067 Onpreeya Srisai email: onpreeya.sr@ku.th
 
 ## Thank you teacher advisor
-###ajan Adisak supeesun
+ajan Adisak supeesun
